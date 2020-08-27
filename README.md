@@ -1,3 +1,3 @@
-#Archeology Game
+Aplicativo de "dicionário" de doenças
 
-Este é um projeto feito por alunos do primeiro período de computação do Unifagoc.
+Um projeto da faculdade que consiste em criar um aplicativo que traga informações sobre doenças específicas
